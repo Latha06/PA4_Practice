@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{4CCA1DFC-0227-0863-7F94-7D1F2F051536}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RotateScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NavigationScript.cs">
     <Files>
-      <File FileName="Assets/RotateSccript.cs" Line="24" Column="2" />
+      <File FileName="Assets/Scripts/NavigationScript.cs" Line="4" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="00_UnityProject_PA4Task" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="RotateScript.cs" selected="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="NavigationScript.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -17,7 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="53fb9d28-9e44-4c4a-94db-14b4e4fded06" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="31cd32c3-7549-4e1a-83ec-162ca3e6f71f" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
